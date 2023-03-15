@@ -1,6 +1,6 @@
 # Github Page Demo
 
-The github page has been created for amazon reviews sentiment analysis : [Github page link](https://rajanbirsinghsethi.github.io/githubpagedemo/)
+The github page has been created for amazon reviews toxic or non toxic analysis : [Github page link](https://rajanbirsinghsethi.github.io/githubpagedemo/)
 
 
 # Streamlit_Project
